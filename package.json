@@ -1,0 +1,19 @@
+{
+  "name": "course_dashboard",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RagaviVinod/course_dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RagaviVinod/course_dashboard/issues"
+  },
+  "homepage": "https://github.com/RagaviVinod/course_dashboard#readme"
+}
