@@ -13,7 +13,7 @@ module.exports = {
     filename: "bundle.js"
   },
   devServer: {
-    stats: minimal,
+    stats: "minimal",
     overlay: true,
     historyApiFallback: true,
     disableHostCheck: false,
